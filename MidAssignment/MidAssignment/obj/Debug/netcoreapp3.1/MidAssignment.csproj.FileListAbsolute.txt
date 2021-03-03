@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\bin\Debug\netcoreapp3.1\MidAssignment.exe
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\bin\Debug\netcoreapp3.1\MidAssignment.deps.json
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\bin\Debug\netcoreapp3.1\MidAssignment.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\bin\Debug\netcoreapp3.1\MidAssignment.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\bin\Debug\netcoreapp3.1\MidAssignment.dll
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\bin\Debug\netcoreapp3.1\MidAssignment.pdb
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\obj\Debug\netcoreapp3.1\MidAssignment.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\obj\Debug\netcoreapp3.1\MidAssignment.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\obj\Debug\netcoreapp3.1\MidAssignment.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\obj\Debug\netcoreapp3.1\MidAssignment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\obj\Debug\netcoreapp3.1\MidAssignment.dll
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\obj\Debug\netcoreapp3.1\MidAssignment.pdb
+C:\Users\LENOVO\source\repos\MidAssignment\MidAssignment\obj\Debug\netcoreapp3.1\MidAssignment.genruntimeconfig.cache
